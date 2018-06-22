@@ -1,1 +1,1 @@
-# TriviaGame.io
+# TriviaGame
